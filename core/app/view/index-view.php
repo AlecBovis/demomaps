@@ -13,7 +13,7 @@
     <div class="gllpMap" style="height: 450px; width: 100%; "></div>
     <input type="hidden" name="lat" class="gllpLatitude" value="-12.044960"/>
     <input type="hidden" name="lng" class="gllpLongitude" value="-76.952807"/>
-    <input type="hidden" name="zoom" class="gllpZoom" value="4"/>
+    <input type="hidden" name="zoom" class="gllpZoom" value="11"/>
   </fieldset>
  
 </div>
