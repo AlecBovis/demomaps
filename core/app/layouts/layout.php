@@ -5,7 +5,7 @@ Este es el layout principal, a partir de este layout o plantilla se muestran el 
 <html lang="en">
   <head>
     <meta charset="utf-8">
-    <title>.: Map Crud - Evilnapsis :.</title>
+    <title>MapCrud-Enotria</title>
     <link href="res/bootstrap/css/bootstrap.css" rel="stylesheet">
     <link rel="stylesheet" href="res/font-awesome/css/font-awesome.min.css">
     <script src="res/js/jquery.min.js"></script>
